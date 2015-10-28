@@ -1,6 +1,6 @@
 name: noahkareus
 favicon: null
-layout_spectrum: 0.025355378165841103
+layout_spectrum: 0
 typography_spectrum: 0.22117562405765057
 title: Noah Kareus
 cta:
@@ -24,6 +24,6 @@ color:
     - '#000000'
   brandStrength: 1
   lightness: 0.687611251603812
-  saturation: 0.027686068322509527
+  saturation: 1
   rhythmicContrast: 0.281179953366518
 purpose: []
